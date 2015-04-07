@@ -1,0 +1,4 @@
+placeholderEmail,username,placeholderPass,password,validation
+Email or Username,regular.automated@evozon.com,Password,Testing1,correct
+Email or Username,mihai.serdean,Password,1111111A,wrong
+Email or Username,1111111A,Password,1111111A,wrong

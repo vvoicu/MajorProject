@@ -1,0 +1,3 @@
+username,password,continent,geography,bmiDatabases,indicator,databaseName,operator,age,gender
+regular.automated@evozon.com,Testing1,Europe,Sweden,BMI Databases,Alcohol use disorders,Burden of Disease,,60-69 yrs,Male
+regular.automated@evozon.com,Testing1,Europe,Sweden,BMI Databases,Subscriber Numbers,Mobile Operators,3 Sweden,,

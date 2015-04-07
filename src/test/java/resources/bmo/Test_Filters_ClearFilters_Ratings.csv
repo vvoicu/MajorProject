@@ -1,0 +1,4 @@
+username,password,indices,indexType,continent,indicator,indexScore,continentId,
+regular.automated@evozon.com,Testing1,Indices,Country Risk,Europe,S-T Political,60-80, +E,
+regular.automated@evozon.com,Testing1,Indices,Operational Risk,Europe,Logistics Risk,40-60, +E,
+regular.automated@evozon.com,Testing1,Indices,Infrastructure,Europe,Rewards,40-60, +E,

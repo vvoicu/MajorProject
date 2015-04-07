@@ -1,0 +1,2 @@
+username,password,radioButtonIntra,radButtonDaily,radButtonWeekly,alertValue,alertNumber,optionAlert,geography,selectServiceAsOptionAlert,searchForService,service,textCompanies,company,save,testName
+regular.automated@evozon.com,Testing1,1,2,3,Newest first,1,Geographies,Europe,Service/Industries,Autos,Autos,Companies,AAPT,Save,test,

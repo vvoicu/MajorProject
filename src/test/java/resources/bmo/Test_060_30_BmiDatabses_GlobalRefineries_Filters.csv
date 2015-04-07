@@ -1,0 +1,2 @@
+username,password,databaseName,continent,status,bmiDatabasesBreadcrumbs,name,capacityBD,capacityTPA,startDateOperator,startDateYear,endDateOperator,endDateYear,letter,
+regular.automated@evozon.com,Testing1,Global Refineries,Europe,Active,BMI Databases,GlobalRefineries,0-100000,500001-1000000,After,1920,Before,2016,P,

@@ -1,0 +1,2 @@
+username,password,itemsPerPage25,itemsPerPage50,itemsPerPage100,itemsPerPage200,itemsPerPageAll,itemsPerPage10,listSelector,countryISO,entityName,entityMaintenanceBreadcrumb
+dianut,39eAg86Y,25,50,100,200,All,10,div div#DataTables_Table_0_wrapper table thead tr th,US,test,Entity maintenance

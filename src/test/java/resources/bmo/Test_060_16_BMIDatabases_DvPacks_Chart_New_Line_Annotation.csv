@@ -1,0 +1,3 @@
+username,password,databaseName,geography,operator,indicator,year,age,gender,annotationType,lineType,description,rotation,bmiDatabasesBreadcrumbs,
+regular.automated@evozon.com,Testing1,Mobile Operators,Algeria,Mobilis,Subscriber Numbers,,,,line,LongDashDotDot,First annotion,70,BMI Databases,
+regular.automated@evozon.com,Testing1,Burden of Disease,Algeria,,Alcohol use disorders,,30-44 yrs,Male,line,LongDashDotDot,First annotion,70,BMI Databases,

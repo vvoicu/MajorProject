@@ -1,0 +1,7 @@
+Entity Code	Name	Type	Level	Parent(s)	CMS Show	Web Show
+US-PAt	IthacaTest2	Metropolitan Statistical Area	9	US	Active	Inactive
+PA-8000t	JohnstownTest2	Region	9	US-PAt	Active	Inactive
+US-RAt	KingstonTest2	Metropolitan Statistical Area	9	US	Active	Inactive
+RA-8000t	LancasterTest2	Region	9	US-RAt	Active	Inactive
+US-8888t	LebanonTest2	Federal District	9	"US-PAt,US-RAt"	Active	Inactive
+US-8999t	New York-Newark-Jersey CityTest2	City	9	US-8888t	Active	Inactive

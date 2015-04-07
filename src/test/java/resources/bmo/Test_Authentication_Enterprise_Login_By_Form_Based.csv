@@ -1,0 +1,5 @@
+Username,Password,email,admUsername,admPassword,ipUat5,ipStg,numberConcurrentUsers,formEnvironmentUAT5,formEnvironmentSTG,formEnvironmentLive
+authentication_automated@evozon.com,Testing1,authentication_automated@evozon.com,dianut,39eAg86Y,10.10.10.20,91.195.44.252,100,loginForm_bmo5_uat5_cgi_bin,loginForm_bmo5_stg_cgi_bin,loginForm_bmo5_live_cgi_bin
+authentication_automated@evozon.com,Testing1,authentication_automated@evozon.com,dianut,39eAg86Y,10.10.10.20,91.195.44.252,100,loginForm_bmo5_uat5_enter,loginForm_bmo5_stg_enter,loginForm_bmo5_live_enter
+authentication_automated@evozon.com,Testing1,authentication_automated@evozon.com,dianut,39eAg86Y,10.10.10.20,91.195.44.252,100,loginForm_www_uat5_cgi_bin,loginForm_www_stg_cgi_bin,loginForm_www_live_cgi_bin
+authentication_automated@evozon.com,Testing1,authentication_automated@evozon.com,dianut,39eAg86Y,10.10.10.20,91.195.44.252,100,loginForm_www_uat5_enter,loginForm_www_stg_enter,loginForm_www_live_enter

@@ -1,0 +1,2 @@
+username,password,characters,geographyNumber,channelNumber,companyNumber,word,startDate,endDate,startDateGrater,endDateSmaller,invalidStartDate,invalidEndDate,geographyCharacters,channelCharacters,companyCharacters,contentTypeValue,breadcrumbsAdvancedSearch,allWordsLabel,exactPhraseLabel,anyWordsLabel,noneWordLabel,
+regular.automated@evozon.com,Testing1,chi,3,1,1,america,12/09/2000,12/09/2013,12/09/2013,12/09/2000,2222,2222,ame,com,aeg,content_in_title,Advanced search,All of these words,Exact phrase,Any of these words,None of these words,

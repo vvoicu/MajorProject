@@ -1,0 +1,2 @@
+username,password,validation,email,admUsername,admPassword,ipUat5,ipStg,numberConcurrentUsers,serviceEntitlements,currentEntitlements,costCodesOptionOff,
+enterprise.automated@evozon.com,Testing1,correct,enterprise.automated@evozon.com,dianut,39eAg86Y,10.10.10.20,91.195.44.252,100,Service Entitlements,Current Entitlements,Off,

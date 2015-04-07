@@ -1,0 +1,2 @@
+username,password,databaseName,continent,peakOilValue,peakGasValue,fromProjectCost,toProjectCost,onshoreOrOffshore,status,hydrocarbonType,character,bmiDatabasesBreadcrumbs,name,
+regular.automated@evozon.com,Testing1,Upstream Projects,Europe,0-100000,0-25,0,20000,Offshore,Production,Oil & Gas,G,BMI Databases,UpstreamProjects,

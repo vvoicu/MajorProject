@@ -1,0 +1,5 @@
+Username,Password,email,admUsername,admPassword,ipUat5,ipStg,numberConcurrentUsers,uat5Link,stgLink,liveLink
+authentication_automated@evozon.com,Testing1,authentication_automated@evozon.com,dianut,39eAg86Y,10.10.10.20,91.195.44.252,100,BMO5_UAT5_CGI_BIN,BMO5_STG_CGI_BIN,BMO5_LIVE_CGI_BIN
+authentication_automated@evozon.com,Testing1,authentication_automated@evozon.com,dianut,39eAg86Y,10.10.10.20,91.195.44.252,100,BMO5_UAT5_ENTER,BMO5_STG_ENTER,BMO5_LIVE_ENTER
+authentication_automated@evozon.com,Testing1,authentication_automated@evozon.com,dianut,39eAg86Y,10.10.10.20,91.195.44.252,100,WWW_UAT5_CGI_BIN,WWW_STG_CGI_BIN,WWW_LIVE_CGI_BIN
+authentication_automated@evozon.com,Testing1,authentication_automated@evozon.com,dianut,39eAg86Y,10.10.10.20,91.195.44.252,100,WWW_UAT5_ENTER,WWW_STG_ENTER,WWW_LIVE_ENTER

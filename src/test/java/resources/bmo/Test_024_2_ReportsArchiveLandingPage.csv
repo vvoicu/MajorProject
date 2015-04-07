@@ -1,0 +1,2 @@
+username,password,searchLetters,continentName,country,service,startDate,endDate,sortOption,sortByCode,geographyLeftHand,serviceLeftHand,reportTypeLeftHand,countryCode,serviceCode,continentCode,reportCode,reportsArchiveBreadcrumbs,reportNumber,sortByOption,dateRangeOption
+regular.automated@evozon.com,Testing1,afr,Europe,Angola,Country Risk,1/3/2013,22/7/2014,Publication Date,date,Europe,Country Risk,Special Report [,AO,e, +E,special_reports,Reports Archive,3,date,any

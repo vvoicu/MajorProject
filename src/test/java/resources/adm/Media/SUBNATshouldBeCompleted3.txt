@@ -1,0 +1,7 @@
+Entity Code	Name	Type	Level	Parent(s)	CMS Show	Web Show
+US-PA	IthacaTest	Metropolitan Statistical Area	1	US	Active	Inactive
+PA-80000	JohnstownTest	Region	2	US-PA	Active	Inactive
+US-RA	KingstonTest	Metropolitan Statistical Area	1	US	Active	Inactive
+RA-80003	LancasterTest	Region	2	US-RA	Active	Inactive
+US-88888	LebanonTest	Federal District	3	"US-PA,US-RA"	Active	Inactive
+US-89999	New York-Newark-Jersey CityTest	City	4	US-88888	Active	Inactive

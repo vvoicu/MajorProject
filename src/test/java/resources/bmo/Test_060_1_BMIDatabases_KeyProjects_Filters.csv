@@ -1,0 +1,4 @@
+username,password,databaseName,operatorOne,operatorTwo,operatorThree,operatorFour,fromInput,toInput,status,character,size,fromCapacity,toCapacity,fuelType,renewable,bmiDatabasesBreadcrumbs,continent,sector,startYear,endYear,name,
+regular.automated@evozon.com,Testing1,Infrastructure Key Projects,Any,Before,After,In,0,10000,Under construction,A,beds,0,1000,,,BMI Databases,Asia,Social Infrastructure,2009,2023,Infrastructure,
+regular.automated@evozon.com,Testing1,Power Key Projects,Any,Before,After,In,0,10000,Under construction,A,MW,0,2000,Nuclear,,BMI Databases,Asia,,2001,2027,Power,
+regular.automated@evozon.com,Testing1,Renewable Key Projects,Any,Before,After,In,0,10000,Under construction,A,MW,0,1000,,Solar,BMI Databases,Asia,,2009,2020,Renewable,
